@@ -1,7 +1,7 @@
 # Curso Introductorio de Python
 Curso Propedútico de Python para Launch X - Innovacción Virtual.
 
-Material desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX, traducción e implementación por: Fernanda Ochoa - Learning Producer de LaunchX.
+Este es el repositorio de las soluciones de las katas de Javier Nicolas Contreras Carrillo
 
 Redes:
 * GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
